@@ -4,6 +4,9 @@
 Hi! My name is Dmitrii Matiunin and I am a Senior Flutter developer. I have more then 8 years in commercial software development, know how to build mobile, web and desktop applications. I am open source contributor and author of development articles. Looking forward to new professional opportunities.
 I am proficient in Flutter, Dart, c# and SQL
 </samp>
+
+E-mail: worc19966d@gmail.com
+Linkedin: [linkedin.com/in/dvmatyun](https://www.linkedin.com/in/dvmatyun/)
 <br /> <br />
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
